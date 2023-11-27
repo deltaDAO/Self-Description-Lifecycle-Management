@@ -1,5 +1,13 @@
 [
   {
+    "did": "did:op:4173db29e070694a32b5722c84394eab1657c3bcf42c77c83106bef470ab116e",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:b92ca049ad73778d8e21c42607ca24468f0030cb2f8c5f2daf5a696bea929f15",
+    "reason": "Test Asset"
+  },
+  {
     "did": "did:op:685fc292dab0f1391a19e855e3bf77a9b65d5ed56c7d174dcb1671447bc8a7f9",
     "reason": "Test Asset"
   },
