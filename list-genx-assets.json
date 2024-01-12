@@ -1,5 +1,57 @@
 [
   {
+    "did": "did:op:4bc59920c7e01591be8c20a8e75487244aff57e77f0654a5abb8c8e709c572fc",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:3ead80bf6998e8bc6688c3d633257bc2c1e69ad9ed3f2e3d91b6b2e4ad14ee64",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:dd6e096e8b413aab31de9af5bcdeceeca8b1a23e8604831ba2d4108a05cecc37",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:9e3e7cdf582c05fbabc94f1724a5c852c808691de720336d7b48279d1bd795bb",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:566e49b296fc7ef5576274749659ea77785eb079e9a5f77c259c1ee469f4d58e",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:466d4990ec20e1e9149c9314a59a80ea2168ebca670b981bd40058afac9ffc31",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:6285334202e0a0d3c1aa82d1340d08b01c39e8e9f1777b4a2c5c9e34e9fdf529",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:74592f5d5d2b09290f072592b3d1f550ac46f24d9bb34096da76c308fd8d606a",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:d293059cf4c85b1a7d6c7940fffa80a671e9f92f44b56ee46df3a1f1e3dc201b",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:077841c68d547711679b025b0d638f7145210a9fe2e94093a9853004c746bcc9",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:10a58000c21b2e3967752089302071dfc1259d0b11cff6f030200fd1e78ab437",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:254cad5d6ec0de8ca55d3da6bd10f5e4a6ffd6b75b4a3f56828f3e600b810067",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:7f4dbcd40bdee35ea1104712091f18b769c3e82eb2f778e9fe51c872f6cb5e24",
+    "reason": "Test Asset"
+  },
+  {
     "did": "did:op:419a6a37a327ed21d9cdeba55108d818e1db78420b32d81ade82234bdb8b8761",
     "reason": "Test Asset"
   },
