@@ -15,7 +15,7 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./asset-purgatory-schema.json
-          INPUT_JSONS: ./list-assets.json,./list-genx-assets.json
+          INPUT_JSONS: ./list-assets.json,./list-genx-assets.json,./pontusx-devnet-asset-purgatory.json,./pontusx-testnet-asset-purgatory.json
   verify-json-accounts:
     runs-on: ubuntu-latest
     steps:
@@ -24,4 +24,4 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./account-purgatory-schema.json
-          INPUT_JSONS: ./list-accounts.json,./list-genx-accounts.json
+          INPUT_JSONS: ./list-accounts.json,./list-genx-accounts.json,./pontusx-devnet-account-purgatory.json,./pontusx-testnet-account-purgatory.json
