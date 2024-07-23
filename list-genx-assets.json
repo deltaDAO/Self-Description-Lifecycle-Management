@@ -4158,5 +4158,37 @@
   {
     "did": "did:op:d9615d18549b9c21871fef6b426e16a6931fbd1e6eb38ce38c32ae1a6454aaba",
     "reason": "removed test offering"
+  },
+  {
+    "did": "https://www.pontus-x.eu/asset/did:op:604e479f834bd363682a99af77f1e938ef22099bb7e80b05a77679ba6aa87c40",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "https://www.pontus-x.eu/asset/did:op:30a85acf3c22b54f098eeb1c3d6b80ed0daebe2eec0cb01fe16175c7f21d1da3",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "https://www.pontus-x.eu/asset/did:op:220d30bdaa2294932104371fc32a807dbf7bc8bb957aae02e54de69b732abcee",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "https://www.pontus-x.eu/asset/did:op:1265529a126d8dcadc20297f435953a681552acbcc4a06bf8042a8cc6203b6bf",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "https://www.pontus-x.eu/asset/did:op:c0fb8265fb9ec2e60826ac2d5fc63162fd1fa840b26f558e90d6699d947617a8",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "https://www.pontus-x.eu/asset/did:op:af90ff84289c92d1aa039d70e357874e83b0f315144068024b3238dc159a9e36",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "https://www.pontus-x.eu/asset/did:op:c17e5129cf0c5f5d6a7a0d0c664971a91a1ea9a5b2414e9e656ef908f0c63e58",
+    "reason": "removed test offering"
   }
 ]
