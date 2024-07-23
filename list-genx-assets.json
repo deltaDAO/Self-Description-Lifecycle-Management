@@ -4110,5 +4110,53 @@
   {
     "did": "did:op:9a1b295849ef6b77e8dbf57d7f5bbe3f6bf9a1dcda57d92dd4f7eb9e1e2b077f",
     "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:ddbe405fd91cd098f38a9dfa81719884c9a1017a93ed22dbb46d5dd9cc57d8ea",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:7ff0d492db2489f3298f738d4670859e482fc6daed8ac128d2439bd73dad6d8b",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fabc3b1d40c3c3887d932cd309cdbe007ff975d4d8e2b08257d21b593aae0f7b",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:be90eda1b72450d3dc71c7ec7eca81dea3a8afb02054812bc53a4efd1dcd1a9e",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:d9bf8e87a9738945f0e79c861c1ff7adcd5dcdeae12fd85c73a38c6c5178e6f5",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:b16988cdbe7301b9ac1c874831707340c9215bedc0a24f200a798439c0c5b6c9",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fc02e4ee3993075ae4457ba1b47c11e137ad918702d8e8f711eb6aa9b1115ecd",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:aeb66943c9cc3c8932ae71a5dffe10025a51814a24d9d4fab2a13b9ba6c2e458",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:3a1236d76b120fae56ff7a903ecab372afe51f9ea2828b3cebb3c94ab57f9377",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:26de8c743687159a88f22f7c8b08aef27641f10f05cd687fc10e7b3c7fc9d603",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:1abe8d152c68fa16e9dcdde4dba4bbe84da60abc9c66a33879637f6cc3001b0a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:d9615d18549b9c21871fef6b426e16a6931fbd1e6eb38ce38c32ae1a6454aaba",
+    "reason": "removed test offering"
   }
 ]
