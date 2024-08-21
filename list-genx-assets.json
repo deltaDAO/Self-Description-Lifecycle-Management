@@ -1,5 +1,45 @@
 [
   {
+    "did": "did:op:9f23895a57b54671597b33e37fbbfc1d945b8877aa383dabc25bf2b9b7109301",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fba1c64166f210bdbb8512de9fff032b1e228acdd44f4d075a25551babcdee35",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:6e02142dfdcfc1eb85d06eceb14048e61484af198c6cb9d97ad8c0418c724925",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:eebf1461fee6440a7698d0cb5f8c028bbf9f7540dc2bfd6cb904cdf78e772290",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:759934edf969bad32c4e1fba892a2e181110b282426a0e8f86f68b2f5a5a6999",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:a68cb193961d06b01f58ef9298114f36b7295141f0b0227eff411c69d4d56b54",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:7035355b61764e60a69aada32ae896795ab1739df4793e24cdfde22ed55295c8",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:feeef9a029954298982c820f59e5b74fdfcb1726478153eec9da13e99a73fb42",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:3d9acd1fe3b4cef7cd6e8e7d16de3e5ba82a780554f68ce3f8a2c3c90481c252",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:7d822c4b5e73dcf89b6f4301326fac5b37b3328b7be09e9028d0a41dba56251c",
+    "reason": "removed test offering"
+  },
+  {
     "did": "did:op:548df3420258b7af9ef1d39e3a86e8ed49959752bb1c1c64beac0dd94655c987",
     "reason": "removed test offering"
   },
