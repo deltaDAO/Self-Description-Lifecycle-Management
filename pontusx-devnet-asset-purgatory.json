@@ -1,5 +1,9 @@
 [
   {
+    "did": "did:op:a2d2cbceab21b9776d6ce2a462de8669efb4ea4a4615d11bbb6e5c0e8edb9264",
+    "reason": "removed by deltaDAO"
+  },
+  {
     "did": "did:op:aaa080f51407644ee17669f57f858d2d8d9224d1deac2df46fac1f0a714b6ed6",
     "reason": "end of life"
   },
