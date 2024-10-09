@@ -1,5 +1,13 @@
 [
   {
+    "did": "did:op:731b3ee6fc343997498413efd73f4c3f9fb6d5487ec4a1a581fe4b7e687123d5",
+    "reason": "workshop asset"
+  },
+  {
+    "did": "/did:op:1304c3a64fe86148def0ca9aa325e799f3d3486897c1ffe3c4d6e86b5b57da5a",
+    "reason": "workshop asset"
+  },
+  {
     "did": "did:op:a2d2cbceab21b9776d6ce2a462de8669efb4ea4a4615d11bbb6e5c0e8edb9264",
     "reason": "removed by deltaDAO"
   },
