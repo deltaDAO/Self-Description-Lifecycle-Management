@@ -1,5 +1,61 @@
 [
   {
+    "did": "did:op:cb36d39fef6396d29c6f15abf40440977db7f9b46714984c264b8aba2c62a4ef",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:2c080b28c3fdca2d563bfcd93e7c001931489bcb08632e8f8f0d2f23224d0d85",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:4fe4cdc5ed84be7bb7175102afdcc5834897a09f453be77dc925a20b0b172da8",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:ea9f97b65e8e17776574bd63c4abefb679313529aa0621f96159190363d565d6",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:748537e10940a76683cf5863eed59e390c28bc0bc05b055e36cce1fed7e43f59",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:f8eb7d4620c974ccd36ef4cd3b53bbc529966dce4e971b64b41db7f1a4d9395a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:b0ca2a7f497a921bd727851dd4e785c20044833f6459f13ad23ec17da060b9fe",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fb2fbd2e4d8e6c194f339f0ba19f26358408ff21ad4825d0e2e73ae33e5453fc",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:483ed81424b73e2652f3a0942f846f4b217ad9207e903087fc8f1c6639d074d3",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:66aaf12edaf4fca7ae824c61313b08e953f1755f527bac815af273e1f1ac44a2",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:d8c65d6034d57a3dc5eab98a602c15e024a5f5924f4c6ca0429da973293d7b8a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:174f5fea0eae16132126949ea37808c71fcd140e5acd545d0968dbdcac06e85a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:39f139076453bb3e29666a23f716795872048483ee0766cdec8fdb03e8773a70",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:88c08baf6d9306ec6614828a5c5e25ca0fabf9b230377f9226edd338b43f4696",
+    "reason": "removed test offering"
+  },
+  {
     "did": "did:op:b6e90f73d29aab0e6b9e474d7d849223ab3c3126aa18c1da7e7a9a761bd4a284",
     "reason": "removed test offering"
   },
