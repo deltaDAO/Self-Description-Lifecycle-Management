@@ -228,14 +228,6 @@
     "reason": "removed test offering"
   },
   {
-    "did": "did:op:8e0de5c89c76075c1a22eb685274135871c4f6c05ea797e21d0970c63510cc54",
-    "reason": "removed test offering"
-  },
-  {
-    "did": "did:op:b63468d89c6af66d024d8c3f6b671d3a01e9e50907fe2ece2b71ace7bf5b2bd1",
-    "reason": "removed test offering"
-  },
-  {
     "did": "did:op:97d9f42f227cb07806433f53c0e94655e3310850213922de6d61a372411bf1c5",
     "reason": "end of life"
   },
