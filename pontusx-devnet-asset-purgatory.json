@@ -1,4 +1,7 @@
 [
+  { "did": "did:op:53b3c1f00a754ef1c36e181713fde1214023471f9303cdabceafc7fb4b125889",
+    "reason": "workshop asset"
+  },
   {
     "did": "did:op:731b3ee6fc343997498413efd73f4c3f9fb6d5487ec4a1a581fe4b7e687123d5",
     "reason": "workshop asset"
