@@ -1,4 +1,8 @@
 [
+  {
+    "did": "did:op:7907bb67e3228c57844718b1ff5d664568df7e8700dc7f4f305ca811afcb810c",
+    "reason": "end of life"    
+  },
   { "did": "did:op:53b3c1f00a754ef1c36e181713fde1214023471f9303cdabceafc7fb4b125889",
     "reason": "workshop asset"
   },
