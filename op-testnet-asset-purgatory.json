@@ -1,0 +1,54 @@
+[
+  {
+    "did": "did:ope:ef0d4d705aae09af5218f017393d4857e48f6802a7403460dff3e07be85c1e26",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:bd499d34be350ecda52bd30fc694f47542f95538cae48438776302a6505d1ed9",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:6f90f53cb9bde82ea94a5536a719f651e2f7d03f1f1995f1c93a683ab3014409",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:d64dba0426a204401deecefa4f15604cc026d5bf50c1a10bbfa2b81abc9ca367",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:c538266bf7dfe14a2562ec8f0835493d7770cca6c3d3ed1b0ff8636cacb54c49",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:bdd12e3c5fcc64b7111ccc0177748ec823eb2739fe36dd8659244d474a862f77",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:a2e64d1d4783e8cf517e286faa39197b49f3efecce5f3cbc9aa80d120d2c479c",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:f7b72e75fb7dc9be3a60b9645cc5b052c8e2cc8c85847a8f0abe638e92b82443",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:16f583d4e002974940c9bcb73d79b57ad1c5763f1568e534e861eeab251aa216",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:f19f74ebf9e8af3b8cc72ff44fa22a6684e478195d2ec3ea8c476f42e8438f4b",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:ecfac96aa4f633e02ed89f422b1a61783568d2ab3c1d41dbbf970dadefde27cd",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:fda16356e29c799ab5512939f8cb9a0fedd8766675dfad70079f1bd7430d3506",
+    "reason": "Test asset cleanup"
+  },
+  {
+    "did": "did:ope:09c16f4f9b66b4417bfde3eb2ab6c4e2000eb5b4688c67c9fc579f785ddfd3da",
+    "reason": "Test asset cleanup"
+  }
+]
